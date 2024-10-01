@@ -1,6 +1,6 @@
 # Unity Ring Collider Solver 2D
 
-A script to calculate points for a PolygonCollider2D for a ring with an opening.
+A script to calculate points of a PolygonCollider2D for a ring sprite with an opening.
 
 ## How to use
 
