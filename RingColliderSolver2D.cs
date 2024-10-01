@@ -16,8 +16,6 @@ public class RingColliderSolver2D : MonoBehaviour
     private void Start()
     {
         polygonCollider2D = GetComponent<PolygonCollider2D>();
-        polygonCollider2D.points = new Vector2[]{};
-
         spriteRenderer = GetComponent<SpriteRenderer>();
         material = spriteRenderer.material;
 
